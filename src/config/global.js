@@ -36,7 +36,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Web analytics (analítica web)',
+        titulo: '<em>Web analytics</em> (analítica web)',
         desarrolloContenidos: true,
         subMenu: [
           {
