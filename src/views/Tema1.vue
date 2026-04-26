@@ -95,7 +95,7 @@
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/5-mob.png", alt="Identificación automática de patrones de comportamiento. Predicción de horarios óptimos de publicación. Alertas sobre disminución significativa en indicadores clave. Recomendaciones de optimización de contenido según rendimiento histórico.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/5.png", alt="Identificación automática de patrones de comportamiento. Predicción de horarios óptimos de publicación. Alertas sobre disminución significativa en indicadores clave. Recomendaciones de optimización de contenido según rendimiento histórico.")
 
-    .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5.z-2
+    .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-sm-8.col-lg-5.d-none.d-lg-block
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema1/6.png", alt="")
