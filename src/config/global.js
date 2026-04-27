@@ -265,7 +265,7 @@ export default {
         'Representación del proceso que sigue un usuario desde el primer contacto hasta la conversión final.',
     },
     {
-      termino: 'Engagement',
+      termino: '<em>Engagement</em>',
       significado:
         'Nivel de interacción que los usuarios tienen con un contenido digital.',
     },

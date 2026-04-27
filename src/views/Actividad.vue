@@ -164,7 +164,7 @@ export default {
         {
           id: 7,
           texto:
-            'El engagement se calcula considerando interacciones frente al alcance o seguidores.',
+            'El <em>engagement</em> se calcula considerando interacciones frente al alcance o seguidores.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [

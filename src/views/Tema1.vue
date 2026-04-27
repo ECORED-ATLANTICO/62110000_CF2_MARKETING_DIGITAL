@@ -29,7 +29,7 @@
           p.mb-0 Más que acumular cifras, la analítica web transforma datos en información estratégica. Permite identificar patrones de comportamiento, tendencias de consumo digital y niveles de interacción que orientan ajustes en contenido, segmentación y frecuencia de publicación. En plataformas como Instagram, TikTok, Facebook y LinkedIn, la analítica se convierte en un insumo fundamental para medir resultados reales.
     
     .p-4.rounded-4.bg-primario-p5
-      p.mb-0 Desde una perspectiva estratégica, la analítica web conecta directamente con el plan de marketing digital, ya que traduce los objetivos planteados (alcance, engagement, conversión o fidelización) en variables cuantificables. De esta manera, el análisis de datos deja de ser operativo y se convierte en un proceso de evaluación estratégica orientado a resultados medibles.
+      p.mb-0 Desde una perspectiva estratégica, la analítica web conecta directamente con el plan de marketing digital, ya que traduce los objetivos planteados (alcance, #[em engagement], conversión o fidelización) en variables cuantificables. De esta manera, el análisis de datos deja de ser operativo y se convierte en un proceso de evaluación estratégica orientado a resultados medibles.
 
     
     Separador
