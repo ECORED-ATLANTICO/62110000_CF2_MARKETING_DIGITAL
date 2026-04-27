@@ -29,7 +29,7 @@
           p.mb-0 Más que acumular cifras, la analítica web transforma datos en información estratégica. Permite identificar patrones de comportamiento, tendencias de consumo digital y niveles de interacción que orientan ajustes en contenido, segmentación y frecuencia de publicación. En plataformas como Instagram, TikTok, Facebook y LinkedIn, la analítica se convierte en un insumo fundamental para medir resultados reales.
     
     .p-4.rounded-4.bg-primario-p5
-      p.mb-0 Desde una perspectiva estratégica, la analítica web conecta directamente con el plan de marketing digital, ya que traduce los objetivos planteados (alcance, #[em engagement], conversión o fidelización) en variables cuantificables. De esta manera, el análisis de datos deja de ser operativo y se convierte en un proceso de evaluación estratégica orientado a resultados medibles.
+      p.mb-0 Desde una perspectiva estratégica, la analítica web conecta directamente con el plan de #[em marketing] digital, ya que traduce los objetivos planteados (alcance, #[em engagement], conversión o fidelización) en variables cuantificables. De esta manera, el análisis de datos deja de ser operativo y se convierte en un proceso de evaluación estratégica orientado a resultados medibles.
 
     
     Separador
@@ -53,7 +53,7 @@
             tbody
               tr(style="background-color: #FFFFFF")
                 td Definición de objetivos.
-                td(colspan='2') Se establecen metas claras y medibles alineadas al plan de marketing digital, determinando si la estrategia busca alcance, interacción, generación de leads o conversión.
+                td(colspan='2') Se establecen metas claras y medibles alineadas al plan de #[em marketing] digital, determinando si la estrategia busca alcance, interacción, generación de leads o conversión.
               tr(style="background-color: #F6F6F6")
                 td Selección de métricas.
                 td(colspan='2') Se identifican las métricas pertinentes según el objetivo planteado, asegurando coherencia entre lo que se desea lograr y lo que realmente se va a medir.
@@ -108,7 +108,7 @@
             h5.text-white ¿Sabías qué?
             p.text-white Lo invitamos a escuchar el siguiente pódcast:
             TarjetaAudio.color-terciario.mb-3(
-              texto="E-marketing: estrategias y tácticas efectivas"
+              texto="<em>E-marketing</em>: estrategias y tácticas efectivas"
               :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )

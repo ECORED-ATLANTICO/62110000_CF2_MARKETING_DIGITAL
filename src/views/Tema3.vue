@@ -13,7 +13,7 @@
     .row.justify-content-center.z-2.mb-3
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
-          p.mb-0 En el análisis del marketing digital no basta con recopilar métricas aisladas; es necesario convertir esos datos en indicadores que permitan evaluar el cumplimiento de objetivos estratégicos. Los indicadores clave de rendimiento facilitan esta conexión entre medición y resultado, orientando la toma de decisiones basada en evidencia. A continuación, se desarrollan su concepto, estructura, interpretación, aplicabilidad y forma de cálculo.
+          p.mb-0 En el análisis del #[em marketing] digital no basta con recopilar métricas aisladas; es necesario convertir esos datos en indicadores que permitan evaluar el cumplimiento de objetivos estratégicos. Los indicadores clave de rendimiento facilitan esta conexión entre medición y resultado, orientando la toma de decisiones basada en evidencia. A continuación, se desarrollan su concepto, estructura, interpretación, aplicabilidad y forma de cálculo.
 
     Separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -38,7 +38,7 @@
     .row.justify-content-center.z-2.mb-3
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
-          p.mb-0 Antes de calcular o interpretar un indicador clave de rendimiento, es fundamental comprender que su utilidad depende de una estructura clara y coherente. Un indicador mal definido puede generar interpretaciones erróneas y decisiones poco acertadas. Por ello, todo indicador debe construirse a partir de elementos estratégicos que garanticen su alineación con los objetivos del plan de marketing digital.
+          p.mb-0 Antes de calcular o interpretar un indicador clave de rendimiento, es fundamental comprender que su utilidad depende de una estructura clara y coherente. Un indicador mal definido puede generar interpretaciones erróneas y decisiones poco acertadas. Por ello, todo indicador debe construirse a partir de elementos estratégicos que garanticen su alineación con los objetivos del plan de #[em marketing] digital.
 
     .row.justify-content-center.mb-4.mb-lg-5.z-2
       .col-xl-10
@@ -55,7 +55,7 @@
             tbody
               tr(style="background-color: #FFFFFF")
                 td Objetivo asociado.
-                td(colspan='2') Meta estratégica que se desea evaluar, alineada al plan de marketing digital (Ej.: aumentar conversiones, mejorar #[em engagement] o incrementar tráfico web).
+                td(colspan='2') Meta estratégica que se desea evaluar, alineada al plan de #[em marketing] digital (Ej.: aumentar conversiones, mejorar #[em engagement] o incrementar tráfico web).
               tr(style="background-color: #F6F6F6")
                 td Métrica base.
                 td(colspan='2') Datos cuantitativos que sirven como insumo para construir el indicador y que provienen del comportamiento real del usuario.
@@ -69,6 +69,7 @@
                 td Meta esperada.
                 td(colspan='2') Valor objetivo previamente establecido que permite comparar el resultado obtenido y evaluar si se cumplió o no la estrategia.
 
+    .fullwidth-bg.fullwidth-bg--2
     .row.justify-content-center.align-items-center.z-2
       .col-lg-10.col-xl-8
         .titulo-sexto.color-acento-contenido.mb-4
@@ -130,7 +131,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema3/9.png", alt="")
       .col-lg-8
-        p El cálculo de un indicador consiste en relacionar dos o más métricas para obtener un resultado que permita evaluar desempeño. En marketing digital, la mayoría de los indicadores se expresan en porcentaje, porque así es más fácil comparar resultados entre publicaciones, campañas o periodos.
+        p El cálculo de un indicador consiste en relacionar dos o más métricas para obtener un resultado que permita evaluar desempeño. En #[em marketing] digital, la mayoría de los indicadores se expresan en porcentaje, porque así es más fácil comparar resultados entre publicaciones, campañas o periodos.
         p Pensar de la siguiente manera facilita la comprensión: las métricas son datos numéricos aislados, mientras que el indicador es el valor que les da significado al relacionarlos con un objetivo.
         .px-4.py-3.rounded-4.bg-secundario-s5
           p.mb-0 Por ejemplo, una publicación puede registrar 500 interacciones y alcanzar a 10.000 personas. Estos números muestran actividad, pero no permiten evaluar el desempeño real hasta que se relacionan entre sí. Esto se logra mediante un indicador, como la tasa de interacción.

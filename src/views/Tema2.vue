@@ -13,7 +13,7 @@
     .row.justify-content-center.z-2.mb-3
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
-          p.mb-0 En el entorno del marketing digital, las métricas constituyen los indicadores básicos que permiten cuantificar el desempeño de las acciones ejecutadas en redes sociales. Sin medición no existe control, y sin control no es posible optimizar estrategias. Antes de analizar su aplicación práctica, es necesario comprender su concepto, sus clases y su utilidad en la toma de decisiones.
+          p.mb-0 En el entorno del #[em marketing] digital, las métricas constituyen los indicadores básicos que permiten cuantificar el desempeño de las acciones ejecutadas en redes sociales. Sin medición no existe control, y sin control no es posible optimizar estrategias. Antes de analizar su aplicación práctica, es necesario comprender su concepto, sus clases y su utilidad en la toma de decisiones.
 
     Separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -27,7 +27,7 @@
           img.mb-4.mb-lg-0(data-aos="fade-right", src="@/assets/curso/tema2/2.png", alt="")
       .col-lg-6
         .p-4.rounded-4.bg-primario-p5.mb-4
-          p En marketing digital, las métricas permiten responder preguntas clave como:
+          p En #[em marketing] digital, las métricas permiten responder preguntas clave como:
           ul.lista-ul--color.ms-3.mb-0
             li.mb-0.d-flex
               i.fas.fa-circle.fa-2xs.mt-2
@@ -180,7 +180,7 @@
             h5.text-white ¿Sabías qué?
             p.text-white Lo invitamos a escuchar el siguiente pódcast:
             TarjetaAudio.color-terciario.mb-3(
-              texto="E-marketing: estrategias y tácticas efectivas"
+              texto="<em>E-marketing</em>: estrategias y tácticas efectivas"
               :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
