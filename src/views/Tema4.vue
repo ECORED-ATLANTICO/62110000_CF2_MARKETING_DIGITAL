@@ -17,8 +17,8 @@
           p.mb-0 La correcta definición de KPI evita la dispersión analítica y orienta la gestión digital hacia resultados concretos, medibles y alineados con la planeación organizacional.
     
     Separador
-    #t4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 4.1Concepto
+    #t_4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 4.1 Concepto
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-sm-8.col-lg-4
@@ -74,14 +74,14 @@
     .row.justify-content-center.align-items-center.z-2
       .col-lg-10.col-xl-8
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 2.
+          h5 Figura 3.
           span Estructura de un indicador clave de rendimiento
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/12.png", alt="La figura 3 describe las 4 características del KPI.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/11.png", alt="La figura 3 describe las 4 características del KPI.")
-        figcaption Nota. SENA, (2026).
+        figcaption #[strong Nota]. SENA, (2026).
 
     Separador
-    #t4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+    #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.2 Tipos
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
@@ -130,7 +130,7 @@
       p.mb-0 Es importante destacar que no todas las empresas priorizan los mismos KPI. Una empresa enfocada en posicionamiento priorizará KPI de alcance e interacción, mientras que una organización orientada a ventas priorizará KPI de conversión y financieros.
 
     Separador
-    #t4_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+    #t_4_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.3 Aplicabilidad
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
@@ -151,16 +151,16 @@
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/15.png", alt="Evaluar efectividad real, Detectar desviaciones frente a metas, Justificar inversión en marketing digital, Optimizar recursos estratégicamente.")
 
     .row.justify-content-center.align-items-center.mb-4.z-2
-      .col-sm-10.col-lg-5
+      .col-sm-10.col-lg-5.order-2.order-lg-1
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema4/16.png", alt="")
-      .col-lg-7
+      .col-lg-7.order-1.order-lg-2
         p Un error frecuente en redes sociales es concentrarse en métricas de vanidad (como el número de likes) sin analizar si estas contribuyen al logro de objetivos empresariales. El KPI evita esta distorsión al exigir alineación estratégica.
         p En entornos digitales complejos, donde múltiples variables influyen en los resultados, la inteligencia artificial facilita la identificación de los KPI más influyentes y su monitoreo en tiempo real.
-        p.mb-0 Las herramientas basadas en IA permiten:
+        p.mb-4.mb-lg-0 Las herramientas basadas en IA permiten:
 
     .row.justify-content-center.mb-5
-      .col-6.col-md-5.col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
+      .col-md-5.col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
         .tarjeta-avatar
           img.w-90(src='@/assets/curso/tema4/17.png' alt='')
           .tarjeta.bg-primario-p10.shadow
@@ -168,7 +168,7 @@
               .row.justify-content-center
                 .col-auto.text-center
                   p.mb-0.text-center Analizar grandes volúmenes de datos simultáneamente.
-      .col-6.col-md-5.col-lg-3.mb-4.mb-lg-0(data-aos="fade-left")
+      .col-md-5.col-lg-3.mb-4.mb-lg-0(data-aos="fade-left")
         .tarjeta-avatar
           img.w-90(src='@/assets/curso/tema4/18.png' alt='')
           .tarjeta.bg-primario-p10.shadow
@@ -176,7 +176,7 @@
               .row.justify-content-center
                 .col-auto.text-center
                   p.mb-0.text-center Determinar qué indicadores impactan más en conversiones o rentabilidad.
-      .col-6.col-md-5.col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
+      .col-md-5.col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
         .tarjeta-avatar
           img.w-90(src='@/assets/curso/tema4/19.png' alt='')
           .tarjeta.bg-primario-p10.shadow
@@ -184,7 +184,7 @@
               .row.justify-content-center
                 .col-auto.text-center
                   p.mb-0.text-center Detectar desviaciones tempranas frente a metas establecidas.
-      .col-6.col-md-5.col-lg-3.mb-4.mb-lg-0(data-aos="fade-left")
+      .col-md-5.col-lg-3.mb-4.mb-lg-0(data-aos="fade-left")
         .tarjeta-avatar
           img.w-90(src='@/assets/curso/tema4/20.png' alt='')
           .tarjeta.bg-primario-p10.shadow

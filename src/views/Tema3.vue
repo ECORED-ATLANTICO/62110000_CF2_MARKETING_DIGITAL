@@ -75,9 +75,9 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 2.
           span Estructura de un indicador clave de rendimiento
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/4-mob.png", alt="La figura muestra los cuatro tipos de kilates de oro que se presentan en joyería.")
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/4.png", alt="La figura muestra los cuatro tipos de kilates de oro que se presentan en joyería.")
-        figcaption Nota. SENA, (2026).
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/4-mob.png", alt="En la figura 2 se enuncia la estructura de un indicador clave de rendimiento.")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/4.png", alt="En la figura 2 se enuncia la estructura de un indicador clave de rendimiento.")
+        figcaption #[strong Nota]. SENA, (2026).
 
     Separador
 
