@@ -199,7 +199,7 @@
           p.mb-4.mb-lg-0 Lo invitamos a consultar el siguiente video práctico que detalla las métricas clave (como alcance, interacción, CTR y conversiones) y muestra su aplicabilidad para medir el desempeño en redes sociales: 
         .col-12.col-lg-3.col-xl-2
           a.boton.color-acento-botones.texto-oscuro(href="https://www.youtube.com/watch?v=mU-LiO2vQKg", target="_blank")
-            span Ver video
+            span Abrir video
             i.fas.fa-play-circle
 
 </template>

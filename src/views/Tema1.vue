@@ -122,7 +122,7 @@
           p.mb-4.mb-lg-0 Lo invitamos a revisar el siguiente video técnico que explica de manera clara qué es la analítica web, su propósito y cómo se utiliza para medir y optimizar el comportamiento de usuarios en entornos digitales, lo cual fundamenta el concepto y la metodología del tema:
         .col-12.col-lg-3.col-xl-2
           a.boton.color-acento-botones.texto-oscuro(href="https://www.youtube.com/watch?v=DutHRrt0wLM", target="_blank")
-            span Ver video
+            span Abrir video
             i.fas.fa-play-circle
 
 

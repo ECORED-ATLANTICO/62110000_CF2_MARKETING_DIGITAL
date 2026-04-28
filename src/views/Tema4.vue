@@ -75,7 +75,7 @@
       .col-lg-10.col-xl-8
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 3.
-          span Estructura de un indicador clave de rendimiento
+          span Características del KPI
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/12.png", alt="La figura 3 describe las 4 características del KPI.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/11.png", alt="La figura 3 describe las 4 características del KPI.")
         figcaption #[strong Nota]. SENA, (2026).
@@ -202,10 +202,10 @@
           figure
             img(data-aos="fade-down-left", src="@/assets/curso/tema4/21.png", alt="")
         .col-lg-9
-          p.mb-4.mb-lg-0 Artículo para comprender cómo las redes sociales y los influencers impactan las estrategias de #[em marketing] y ventas, aportando una visión actualizada sobre tácticas modernas de posicionamiento digital:
+          p.mb-4.mb-lg-0 Le recomendamos consultar el siguiente recurso práctico para comprender y afianzar los conceptos básicos sobre qué es un KPI, cómo estructurarlo y ejemplos prácticos aplicados a mediciones de #[em marketing] digital en redes:
         .col-12.col-lg-3.col-xl-2
           a.boton.color-acento-botones.texto-oscuro(href="https://www.youtube.com/watch?v=L4l5ocVM4SY", target="_blank")
-            span Ver video
+            span Abrir video
             i.fas.fa-play-circle
 
 </template>

@@ -255,7 +255,7 @@
           p.mb-4.mb-lg-0 Lo invitamos a consultar el siguiente video para comprender de forma técnica los pasos esenciales para diseñar y estructurar un presupuesto en #[em marketing] digital, vinculando recursos con objetivos estratégicos y métricas para maximizar resultados en redes sociales y otras plataformas: 
         .col-12.col-lg-3.col-xl-2
           a.boton.color-acento-botones.texto-oscuro(href="https://www.youtube.com/watch?v=c3KoolyMES0", target="_blank")
-            span Ver video
+            span Abrir video
             i.fas.fa-play-circle
 
 </template>
