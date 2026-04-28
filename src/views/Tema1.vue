@@ -19,7 +19,7 @@
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.1 Concepto
 
-    .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
+    .row.justify-content-center.align-items-center.mb-4.z-2
       .col-sm-8.col-lg-4
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema1/2.png", alt="")
@@ -53,7 +53,7 @@
             tbody
               tr(style="background-color: #FFFFFF")
                 td Definición de objetivos.
-                td(colspan='2') Se establecen metas claras y medibles alineadas al plan de #[em marketing] digital, determinando si la estrategia busca alcance, interacción, generación de leads o conversión.
+                td(colspan='2') Se establecen metas claras y medibles alineadas al plan de #[em marketing] digital, determinando si la estrategia busca alcance, interacción, generación de #[em leads] o conversión.
               tr(style="background-color: #F6F6F6")
                 td Selección de métricas.
                 td(colspan='2') Se identifican las métricas pertinentes según el objetivo planteado, asegurando coherencia entre lo que se desea lograr y lo que realmente se va a medir.
@@ -88,7 +88,7 @@
     .row.justify-content-center.mb-4.mb-lg-5
       .col-lg-10.col-xl-8
         .py-3.px-4.rounded-4.bg-secundario-s5.z-2
-          p.mb-0 El uso de herramientas con inteligencia artificial fortalece la metodología analítica mediante:
+          p.mb-0.text-center El uso de herramientas con inteligencia artificial fortalece la metodología analítica mediante:
 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10.col-xl-8
@@ -108,8 +108,8 @@
             h5.text-white ¿Sabías qué?
             p.text-white Lo invitamos a escuchar el siguiente pódcast:
             TarjetaAudio.color-terciario.mb-3(
-              texto="<em>E-marketing</em>: estrategias y tácticas efectivas"
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              texto="Analítica web: concepto, herramientas y metodología."
+              :audio="require('@/assets/podcast/P1_analitica_web-concepto.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
 

@@ -17,8 +17,8 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Fundamentos de métricas del <em>marketing</em> digital',
-      titulo: 'Cuestionario',
+      tema: 'Fundamentos de métricas del marketing digital',
+      titulo: 'Fundamentos de métricas del marketing digital',
       introduccion:
         '<b> Objetivo:</b> evaluar tu comprensión sobre las métricas del <em>marketing</em> digital, fortaleciendo tu capacidad para interpretar datos y establecer indicadores alineados con el plan de <em>marketing</em> digital',
       barajarPreguntas: true,
@@ -187,7 +187,7 @@ export default {
         {
           id: 8,
           texto:
-            'Las métricas de conversión no incluyen ventas generadas o leads obtenidos.',
+            'Las métricas de conversión no incluyen ventas generadas o <em>leads</em> obtenidos.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [

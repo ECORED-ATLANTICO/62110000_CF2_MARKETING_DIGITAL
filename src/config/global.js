@@ -168,11 +168,6 @@ export default {
         titulo: 'Glosario',
       },
       {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
-      {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
@@ -194,14 +189,6 @@ export default {
       },
     ],
   },
-  complementario: [
-    {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: '',
-    },
-  ],
   glosario: [
     {
       termino: 'Alcance',
@@ -224,7 +211,7 @@ export default {
         'Conjunto de usuarios que interactúan o consumen contenido en una plataforma digital.',
     },
     {
-      termino: 'Bounce rate (Tasa de rebote)',
+      termino: '<em>Bounce rate</em> (Tasa de rebote)',
       significado:
         'Porcentaje de usuarios que abandonan un sitio web después de visualizar una sola página.',
     },
@@ -249,7 +236,7 @@ export default {
         'Porcentaje de usuarios que hacen clic en un enlace respecto al número de impresiones obtenidas.',
     },
     {
-      termino: 'Dashboard',
+      termino: '<em>Dashboard</em>',
       significado:
         'Panel visual que presenta métricas e indicadores de forma gráfica para facilitar el análisis.',
     },
@@ -281,7 +268,7 @@ export default {
     {
       termino: 'KPI (Indicador clave de rendimiento)',
       significado:
-        'Métrica estratégica que evalúa el cumplimiento de objetivos específicos dentro del plan de marketing digital.',
+        'Métrica estratégica que evalúa el cumplimiento de objetivos específicos dentro del plan de <em>marketing</em> digital.',
     },
     {
       termino: 'Métrica',
@@ -296,7 +283,7 @@ export default {
     {
       termino: 'Presupuesto digital',
       significado:
-        'Recursos financieros asignados para ejecutar estrategias y campañas de marketing digital.',
+        'Recursos financieros asignados para ejecutar estrategias y campañas de <em>marketing</em> digital.',
     },
     {
       termino: 'ROI (Retorno de inversión)',
@@ -337,7 +324,7 @@ export default {
     },
     {
       referencia:
-        'Cuervo-Sánchez, C. A. (2025). Las redes sociales y los influencers como parte de la estrategia de ventas: Un análisis bibliométrico. <em>aDResearch ESIC International Journal of Communication Research</em>, <em>34</em>, e297.',
+        'Cuervo-Sánchez, C. A. (2025). <em>Las redes sociales y los influencers como parte de la estrategia de ventas: Un análisis bibliométrico.</em> aDResearch ESIC International Journal of Communication Research, <em>34</em>, e297.',
       link:
         'https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/view/297/660',
     },
@@ -358,7 +345,7 @@ export default {
     },
     {
       referencia:
-        'López Lazcano, M. (2025). La influencia de la publicidad en redes sociodigitales sobre los hábitos de consumo. <em>Huella de la Palabra</em>, <em>18</em>(18), 38-65.',
+        'López Lazcano, M. (2025). <em>La influencia de la publicidad en redes sociodigitales sobre los hábitos de consumo.</em> Huella de la Palabra, 18(18), 38-65.',
       link:
         'https://revistas.lasallep.edu.mx/index.php/huella/article/view/649/935',
     },
@@ -425,7 +412,7 @@ export default {
         },
         {
           nombre: 'Fabio Fonseca Arguelles',
-          cargo: 'Desarrollador full stack',
+          cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {

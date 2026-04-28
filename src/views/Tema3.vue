@@ -112,7 +112,7 @@
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.4 Aplicabilidad
 
-    .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
+    .row.justify-content-center.align-items-center.z-2
       .col-sm-10.col-lg-5
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema3/8.png", alt="")

@@ -2,14 +2,14 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .row.justify-content-center.align-items-center.mb-4.z-2
+    .row.justify-content-center.align-items-center.mb-5.z-2
       .col-sm-8.col-lg-4
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/sintesis.png", alt="")
       .col-lg-8
-        p El componente formativo Métricas del #[em marketing] digital integra la analítica web, las métricas digitales y los indicadores clave de rendimiento como bases para evaluar el desempeño de las estrategias #[em online]. Desarrolla la interpretación, estructura y cálculo de KPI, así como su aplicabilidad en redes sociales y entornos digitales. Finalmente, articula el análisis de resultados con el presupuesto, consolidando un enfoque estratégico orientado a la medición, optimización y rentabilidad del #[em marketing] digital. 
+        p.mb-0 El componente formativo Métricas del #[em marketing] digital integra la analítica web, las métricas digitales y los indicadores clave de rendimiento como bases para evaluar el desempeño de las estrategias #[em online]. Desarrolla la interpretación, estructura y cálculo de KPI, así como su aplicabilidad en redes sociales y entornos digitales. Finalmente, articula el análisis de resultados con el presupuesto, consolidando un enfoque estratégico orientado a la medición, optimización y rentabilidad del #[em marketing] digital. 
     .row.justify-content-center
-      .col-lg-10.mb-5.bgs.p-4.brad
+      .col-12.mb-5
         figure
           img(src="@/assets/curso/sintesis.svg", alt="")
       .col-auto

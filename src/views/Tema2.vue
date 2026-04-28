@@ -19,14 +19,14 @@
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.1 Concepto
 
-    p.mb-4.mb-lg-5 Las métricas son datos cuantificables que permiten medir el comportamiento de los usuarios frente a los contenidos digitales y evaluar el rendimiento de una estrategia en redes sociales. Representan valores numéricos que reflejan resultados específicos, como número de visualizaciones, clics, comentarios o compartidos.
+    p.mb-4 Las métricas son datos cuantificables que permiten medir el comportamiento de los usuarios frente a los contenidos digitales y evaluar el rendimiento de una estrategia en redes sociales. Representan valores numéricos que reflejan resultados específicos, como número de visualizaciones, clics, comentarios o compartidos.
 
     .row.justify-content-center.align-items-center.z-2
       .col-lg-6.mb-4.mb-lg-0
         figure
           img.mb-4.mb-lg-0(data-aos="fade-right", src="@/assets/curso/tema2/2.png", alt="")
       .col-lg-6
-        .p-4.rounded-4.bg-primario-p5.mb-4
+        .p-4.rounded-4.bg-primario-p5.mb-3
           p En #[em marketing] digital, las métricas permiten responder preguntas clave como:
           ul.lista-ul--color.ms-3.mb-0
             li.mb-0.d-flex
@@ -38,7 +38,7 @@
             li.mb-0.d-flex
               i.fas.fa-circle.fa-2xs.mt-2
               | ¿Cuántas realizaron la acción esperada?
-          p.mb-0 Es importante señalar que una métrica por sí sola no necesariamente indica éxito o fracaso; su verdadero valor surge cuando se analiza en relación con un objetivo previamente definido.
+        p.mb-0 Es importante señalar que una métrica por sí sola no necesariamente indica éxito o fracaso; su verdadero valor surge cuando se analiza en relación con un objetivo previamente definido.
         
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -87,6 +87,7 @@
                 td Evalúan la permanencia y recurrencia del usuario en la comunidad digital.
                 td Seguidores recurrentes, tasa de retención.
 
+    .fullwidth-bg.fullwidth-bg--2
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10.col-xl-8
         .titulo-sexto.color-acento-contenido.mb-4
@@ -184,8 +185,8 @@
             h5.text-white ¿Sabías qué?
             p.text-white Lo invitamos a escuchar el siguiente pódcast:
             TarjetaAudio.color-terciario.mb-3(
-              texto="<em>E-marketing</em>: estrategias y tácticas efectivas"
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              texto="De las métricas a la acción: cómo optimizar contenido en redes"
+              :audio="require('@/assets/podcast/P2_metricas-a-la-accion-optimizar-contenido.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
 

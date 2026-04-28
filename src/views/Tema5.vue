@@ -16,7 +16,7 @@
     .row.justify-content-center
       .col-xl-10
         .p-4.rounded-4.bg-primario-p5
-          p.mb-0.text-center En #[em marketing] digital, el presupuesto asegura que cada inversión, desde publicidad online hasta creación de contenido, tenga un propósito definido, sea medible y genere resultados concretos.
+          p.mb-0.text-center En #[em marketing] digital, el presupuesto asegura que cada inversión, desde publicidad #[em online] hasta creación de contenido, tenga un propósito definido, sea medible y genere resultados concretos.
 
     Separador
 
@@ -28,7 +28,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema5/2.png", alt="")
       .col-lg-8
-        p El presupuesto es un plan financiero que asigna recursos económicos a actividades, proyectos o áreas específicas de la organización, con el fin de alcanzar objetivos estratégicos de manera eficiente. En marketing digital, se aplica para inversiones en campañas publicitarias, producción de contenido, herramientas de análisis y promociones.
+        p El presupuesto es un plan financiero que asigna recursos económicos a actividades, proyectos o áreas específicas de la organización, con el fin de alcanzar objetivos estratégicos de manera eficiente. En #[em marketing] digital, se aplica para inversiones en campañas publicitarias, producción de contenido, herramientas de análisis y promociones.
         .p-4.rounded-4.bg-primario-p5.mb-3
           p.mb-0 Coca-Cola destina presupuestos específicos para publicidad en redes, producción de contenido audiovisual, herramientas de análisis de datos y promociones digitales, asegurando que cada peso invertido tenga un retorno medible y esté alineado con los objetivos estratégicos de la marca.
         p.mb-0 A continuación, se presentan las principales características de un presupuesto, sus funciones clave y ejemplos prácticos que permiten entender cómo se aplican en la planificación y gestión de recursos dentro de una organización o campaña de marketing digital:
@@ -40,7 +40,7 @@
           span Características principales de un presupuesto
         .tabla-a.color-secundario
           table
-            caption Nota. SENA, (2026).
+            caption Nota. Adaptada Gitman & Zutter (2015); Brigham & Ehrhardt (2020); Chaffey & Ellis-Chadwick (2019).
             thead
               tr(style="background-color: #F1B6FC")
                 th Característica
@@ -126,7 +126,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema5/4.png", alt="")
       .col-lg-8
-        p A continuación, se presenta un ejemplo práctico que muestra cómo elaborar un presupuesto de marketing digital de manera estructurada, asignando recursos, definiendo objetivos y estableciendo indicadores de seguimiento. Se utiliza como referencia la empresa Go Colombia, con el fin de ilustrar la aplicación real de un presupuesto en campañas digitales.
+        p A continuación, se presenta un ejemplo práctico que muestra cómo elaborar un presupuesto de #[em marketing] digital de manera estructurada, asignando recursos, definiendo objetivos y estableciendo indicadores de seguimiento. Se utiliza como referencia la empresa Go Colombia, con el fin de ilustrar la aplicación real de un presupuesto en campañas digitales.
         h5 Empresa de referencia: Go Colombia
         p #[strong Objeto de la empresa:] Go Colombia es una empresa colombiana de entregas a domicilio (delivery) y servicios bajo demanda. A través de su app, los usuarios pueden pedir comida, supermercado, productos de farmacia, mensajería y otros servicios rápidos.
         p.mb-0 #[strong Objetivo:] aumentar descargas de la app en un 15 % y mejorar interacción en redes sociales durante un mes. 
@@ -135,7 +135,7 @@
       .col-md-5.col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         .tarjeta-avatar
           img.w-90(src='@/assets/curso/tema5/5.png' alt='')
-          .tarjeta.bg-primario-p10.shadow.w-100
+          .tarjeta.bg-primario-p5.shadow.w-100
             .p-3.pt-4
               .row.justify-content-center
                 .col-12
@@ -147,12 +147,12 @@
                       | Descargas de app + 15 %.
                     li.mb-0.d-flex
                       i.fas.fa-circle.fa-2xs.mt-2
-                      | Engagement en redes + 20 %.
+                      span #[em Engagement] en redes + 20 %.
 
       .col-md-5.col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
         .tarjeta-avatar
           img.w-90(src='@/assets/curso/tema5/6.png' alt='')
-          .tarjeta.bg-primario-p10.shadow.w-100
+          .tarjeta.bg-primario-p5.shadow.w-100
             .p-3.pt-4
               .row.justify-content-center
                 .col-12
@@ -162,7 +162,7 @@
       .col-md-5.col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         .tarjeta-avatar
           img.w-90(src='@/assets/curso/tema5/7.png' alt='')
-          .tarjeta.bg-primario-p10.shadow.w-100
+          .tarjeta.bg-primario-p5.shadow.w-100
             .p-3.pt-4
               .row.justify-content-center
                 .col-12
@@ -209,7 +209,7 @@
       .col-md-6.col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
         .tarjeta-avatar
           img.w-90(src='@/assets/curso/tema5/8.png' alt='')
-          .tarjeta.bg-primario-p10.shadow.w-100
+          .tarjeta.bg-primario-p5.shadow.w-100
             .p-3.pt-4
               .row.justify-content-center
                 .col-12
@@ -225,7 +225,7 @@
       .col-md-6.col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
         .tarjeta-avatar
           img.w-90(src='@/assets/curso/tema5/9.png' alt='')
-          .tarjeta.bg-primario-p10.shadow.w-100
+          .tarjeta.bg-primario-p5.shadow.w-100
             .p-3.pt-4
               .row.justify-content-center
                 .col-12
@@ -244,7 +244,7 @@
 
     .p-4.rounded-4.bg-secundario-s5.mb-4
       h5 Resultado final:
-      p.mb-0 Un presupuesto bien elaborado permite alinear la inversión con los objetivos de negocio, optimizar recursos, medir resultados de manera objetiva y tomar decisiones estratégicas informadas, reduciendo riesgos y aumentando la efectividad de las campañas de marketing digital.
+      p.mb-0 Un presupuesto bien elaborado permite alinear la inversión con los objetivos de negocio, optimizar recursos, medir resultados de manera objetiva y tomar decisiones estratégicas informadas, reduciendo riesgos y aumentando la efectividad de las campañas de #[em marketing] digital.
     
     .p-4.rounded-4.bg-terciario-t20
       .row.justify-content-center.align-items-center
@@ -252,7 +252,7 @@
           figure
             img(data-aos="fade-down-left", src="@/assets/curso/tema5/10.png", alt="")
         .col-lg-9
-          p.mb-4.mb-lg-0 Lo invitamos a consultar el siguiente video para comprender de forma técnica los pasos esenciales para diseñar y estructurar un presupuesto en marketing digital, vinculando recursos con objetivos estratégicos y métricas para maximizar resultados en redes sociales y otras plataformas: 
+          p.mb-4.mb-lg-0 Lo invitamos a consultar el siguiente video para comprender de forma técnica los pasos esenciales para diseñar y estructurar un presupuesto en #[em marketing] digital, vinculando recursos con objetivos estratégicos y métricas para maximizar resultados en redes sociales y otras plataformas: 
         .col-12.col-lg-3.col-xl-2
           a.boton.color-acento-botones.texto-oscuro(href="https://www.youtube.com/watch?v=c3KoolyMES0", target="_blank")
             span Ver video
