@@ -96,6 +96,10 @@
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/4.png", alt="La figura 1 nos muestra los Tipos de métricas en redes sociales.")
         figcaption Nota. SENA, (2026).
 
+    Separador
+    #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 2.3 Aplicabilidad
+    
     .p-4.rounded-4.bg-secundario-s5.mb-5
       p.mb-0.px-lg-5 Las métricas permiten evaluar el desempeño real de las estrategias digitales y respaldar decisiones basadas en datos. Su aplicabilidad depende del objetivo estratégico planteado. Por ejemplo:
 
@@ -103,17 +107,17 @@
       .col-md-6.col-lg-5.col-xl-4.mb-5.mb-md-4
         .icon-tarjeta.icon-tarjeta--imagen-centrada.color-primario.p-2.ps-4.ms-5.h-100
           .icon-tarjeta__imagen 
-            img.w-100(src="@/assets/curso/tema2/5.png", alt="")
+            img.width-100(src="@/assets/curso/tema2/5.png", alt="")
           p.mb-0.ps-4.icon-tarjeta__text Si el objetivo es visibilidad, se priorizan métricas de alcance.
       .col-md-6.col-lg-5.col-xl-4.mb-5.mb-md-4
         .icon-tarjeta.icon-tarjeta--imagen-centrada.color-primario.p-2.ps-4.ms-5.h-100
           .icon-tarjeta__imagen 
-            img.w-100(src="@/assets/curso/tema2/6.png", alt="")
+            img.width-100(src="@/assets/curso/tema2/6.png", alt="")
           p.mb-0.ps-4.icon-tarjeta__text Si el objetivo es #[em engagement], se analizan métricas de interacción.
       .col-md-6.col-lg-5.col-xl-4.mb-5.mb-md-4
         .icon-tarjeta.icon-tarjeta--imagen-centrada.color-primario.p-2.ps-4.ms-5.h-100
           .icon-tarjeta__imagen 
-            img.w-100(src="@/assets/curso/tema2/7.png", alt="")
+            img.width-100(src="@/assets/curso/tema2/7.png", alt="")
           p.mb-0.ps-4.icon-tarjeta__text Si el objetivo es ventas, se enfocan métricas de conversión.
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2

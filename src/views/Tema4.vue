@@ -18,7 +18,7 @@
     
     Separador
     #t4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 Concepto
+      h2 4.1Concepto
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-sm-8.col-lg-4
@@ -82,7 +82,7 @@
 
     Separador
     #t4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 Tipos
+      h2 4.2 Tipos
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-sm-10.col-lg-5
@@ -131,7 +131,7 @@
 
     Separador
     #t4_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 Aplicabilidad
+      h2 4.3 Aplicabilidad
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-sm-8.col-lg-4

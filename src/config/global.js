@@ -67,6 +67,11 @@ export default {
             titulo: 'Clases ',
             hash: 't_2_2',
           },
+          {
+            numero: '2.3',
+            titulo: 'Aplicabilidad',
+            hash: 't_2_3',
+          },
         ],
       },
       {
@@ -77,27 +82,27 @@ export default {
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'Concepto ',
+            titulo: 'Concepto',
             hash: 't_3_1',
           },
           {
             numero: '3.2',
-            titulo: 'Estructura ',
+            titulo: 'Estructura',
             hash: 't_3_2',
           },
           {
             numero: '3.3',
-            titulo: 'Interpretación ',
+            titulo: 'Interpretación',
             hash: 't_3_3',
           },
           {
             numero: '3.4',
-            titulo: 'Aplicabilidad ',
+            titulo: 'Aplicabilidad',
             hash: 't_3_4',
           },
           {
             numero: '3.5',
-            titulo: 'Cálculo ',
+            titulo: 'Cálculo',
             hash: 't_3_5',
           },
         ],
@@ -105,29 +110,23 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo:
-          'Fidelización y mantenimiento de servicio al cliente en las redes sociales',
+        titulo: 'KPI (Key Performance Indicator)',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '4.1',
-            titulo: 'KPI (Key Performance Indicator)',
+            titulo: 'Concepto',
             hash: 't_4_1',
           },
           {
             numero: '4.2',
-            titulo: 'Concepto ',
+            titulo: 'Tipos',
             hash: 't_4_2',
           },
           {
             numero: '4.3',
-            titulo: 'Tipos ',
+            titulo: 'Aplicabilidad',
             hash: 't_4_3',
-          },
-          {
-            numero: '4.4',
-            titulo: 'Aplicabilidad ',
-            hash: 't_4_4',
           },
         ],
       },

@@ -94,17 +94,17 @@
       .col-md-6.col-lg-5.col-xl-4.mb-5.mb-md-4
         .icon-tarjeta.icon-tarjeta--imagen-centrada.color-primario.p-2.ps-4.ms-5.h-100
           .icon-tarjeta__imagen 
-            img.w-100(src="@/assets/curso/tema3/5.png", alt="")
+            img.width-100(src="@/assets/curso/tema3/5.png", alt="")
           p.mb-0.ps-4.icon-tarjeta__text Detectar desviaciones.
       .col-md-6.col-lg-5.col-xl-4.mb-5.mb-md-4
         .icon-tarjeta.icon-tarjeta--imagen-centrada.color-primario.p-2.ps-4.ms-5.h-100
           .icon-tarjeta__imagen 
-            img.w-100(src="@/assets/curso/tema3/6.png", alt="")
+            img.width-100(src="@/assets/curso/tema3/6.png", alt="")
           p.mb-0.ps-4.icon-tarjeta__text Identificar oportunidades de mejora.
       .col-md-6.col-lg-5.col-xl-4.mb-5.mb-md-4
         .icon-tarjeta.icon-tarjeta--imagen-centrada.color-primario.p-2.ps-4.ms-5.h-100
           .icon-tarjeta__imagen 
-            img.w-100(src="@/assets/curso/tema3/7.png", alt="")
+            img.width-100(src="@/assets/curso/tema3/7.png", alt="")
           p.mb-0.ps-4.icon-tarjeta__text Tomar decisiones correctivas o de optimización.
 
     Separador
@@ -179,22 +179,22 @@
       .col-md-6.col-lg-5.col-xl-3.mb-5.mb-md-4
         .icon-tarjeta.color-primario.p-2.ps-4.ms-5.h-100
           .icon-tarjeta__imagen 
-            img.w-100(src="@/assets/curso/tema3/12.png", alt="")
+            img.width-100(src="@/assets/curso/tema3/12.png", alt="")
           p.mb-0.ps-4.icon-tarjeta__text Identificar automáticamente indicadores con mejor desempeño.
       .col-md-6.col-lg-5.col-xl-3.mb-5.mb-md-4
         .icon-tarjeta.color-primario.p-2.ps-4.ms-5.h-100
           .icon-tarjeta__imagen 
-            img.w-100(src="@/assets/curso/tema3/13.png", alt="")
+            img.width-100(src="@/assets/curso/tema3/13.png", alt="")
           p.mb-0.ps-4.icon-tarjeta__text Detectar variaciones atípicas en periodos específicos.
       .col-md-6.col-lg-5.col-xl-3.mb-5.mb-md-4
         .icon-tarjeta.color-primario.p-2.ps-4.ms-5.h-100
           .icon-tarjeta__imagen 
-            img.w-100(src="@/assets/curso/tema3/14.png", alt="")
+            img.width-100(src="@/assets/curso/tema3/14.png", alt="")
           p.mb-0.ps-4.icon-tarjeta__text Generar proyecciones de cumplimiento de metas.
       .col-md-6.col-lg-5.col-xl-3.mb-5.mb-md-4
         .icon-tarjeta.color-primario.p-2.ps-4.ms-5.h-100
           .icon-tarjeta__imagen 
-            img.w-100(src="@/assets/curso/tema3/15.png", alt="")
+            img.width-100(src="@/assets/curso/tema3/15.png", alt="")
           p.mb-0.ps-4.icon-tarjeta__text Sugerir ajustes estratégicos en tiempo real.
 
     .row.justify-content-center.mb-4.mb-lg-5
