@@ -18,7 +18,7 @@ export default {
   data: () => ({
     cuestionario: {
       tema: 'Fundamentos de métricas del marketing digital',
-      titulo: 'Fundamentos de métricas del marketing digital',
+      titulo: 'Cuestionario',
       introduccion:
         '<b> Objetivo:</b> evaluar tu comprensión sobre las métricas del <em>marketing</em> digital, fortaleciendo tu capacidad para interpretar datos y establecer indicadores alineados con el plan de <em>marketing</em> digital',
       barajarPreguntas: true,

@@ -171,7 +171,20 @@
             .row.justify-content-center.align-items-center.m-2.m-xl-4
               .col-auto
                 h5.mb-4 Interpretación del resultado
-                p El 5 % indica que es cinco de cada 100 personas que vieron la publicación interactuaron con el contenido mediante likes, comentarios o compartidos.
+                p El 5 % indica que es cinco de cada 100 personas que vieron la publicación interactuaron con el contenido mediante #[em likes], comentarios o compartidos.
+            .row.justify-content-center.align-items-center.m-2.m-xl-4
+              .col-auto
+                h5.mb-4 Evaluación estratégica 
+                p.mb-0 Si la meta establecida es 3 %, el desempeño es adecuado. Si la meta establecida es 10 %, se requiere optimizar el contenido para mejorar la interacción. 
+            .row.justify-content-center.align-items-center.m-2.m-xl-4
+              .col-auto
+                h5.mb-4 Uso del indicador 
+                p.mb-0 Un alto alcance con baja interacción indica que el mensaje no conecta con la audiencia. Un bajo alcance con alta interacción señala un contenido pertinente que necesita mayor difusión. 
+            .row.justify-content-center.align-items-center.m-2.m-xl-4
+              .col-auto
+                h5.mb-4 Apoyo de la IA en el análisis 
+                p La inteligencia artificial permite analizar múltiples variables de forma simultánea y detectar patrones de rendimiento, facilitando la toma de decisiones en escenarios con grandes volúmenes de datos o múltiples campañas activas. 
+        
   
     p.mb-4.mb-lg-5 Las herramientas basadas en IA permiten:
 

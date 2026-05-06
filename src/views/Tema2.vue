@@ -128,7 +128,7 @@
       .col-lg-8
         p La empresa Coca-Cola puede lanzar una campaña enfocada en recordación de marca. En este caso, priorizará métricas de alcance e impresiones. En cambio, una empresa como Amazon centrará su análisis en métricas de conversión, ya que su objetivo principal es la venta directa.
         .py-3.px-4.bg-terciario-t20.rounded-4.mb-3
-          p.mb-0 En redes sociales, muchas marcas cometen el error de enfocarse únicamente en likes, sin analizar si estos generan tráfico o conversión. Por ello, la aplicabilidad correcta de las métricas implica alinearlas con los objetivos estratégicos.
+          p.mb-0 En redes sociales, muchas marcas cometen el error de enfocarse únicamente en #[em likes], sin analizar si estos generan tráfico o conversión. Por ello, la aplicabilidad correcta de las métricas implica alinearlas con los objetivos estratégicos.
         p.mb-0 En entornos digitales caracterizados por grandes volúmenes de información y cambios constantes en el comportamiento del usuario, el análisis manual de métricas puede resultar limitado y poco oportuno. La velocidad con la que se generan datos en redes sociales exige herramientas que permitan procesar información en tiempo real y detectar patrones que no siempre son evidentes a simple vista.
 
     .p-4.bg-primario-p5.rounded-4.mb-4

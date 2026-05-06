@@ -18,11 +18,7 @@
           p.mb-0 Su relevancia radica en que permite transformar los datos en información útil para evaluar el desempeño de las estrategias implementadas en redes sociales y plataformas digitales. Comprender las métricas, interpretar indicadores clave de rendimiento (KPI) y analizar su aplicabilidad facilita identificar oportunidades de mejora, optimizar recursos y maximizar el retorno de la inversión en campañas digitales.
     
     p.mb-4.mb-lg-5 El desarrollo temático se abordará de manera progresiva, iniciando con la analítica web y su metodología, continuando con el estudio de las métricas y su aplicabilidad. Posteriormente, se profundizará en los indicadores clave de rendimiento, su estructura, cálculo e interpretación, para finalmente integrar el análisis de KPI y presupuesto como herramientas fundamentales para la evaluación estratégica y la sostenibilidad de las acciones de #[em marketing] digital, haciendo uso eficiente de la IA.
-    
-    figure.mb-5
-      .video.mb-2
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+
 
 </template>
 

@@ -31,7 +31,7 @@
         p El presupuesto es un plan financiero que asigna recursos económicos a actividades, proyectos o áreas específicas de la organización, con el fin de alcanzar objetivos estratégicos de manera eficiente. En #[em marketing] digital, se aplica para inversiones en campañas publicitarias, producción de contenido, herramientas de análisis y promociones.
         .p-4.rounded-4.bg-primario-p5.mb-3
           p.mb-0 Coca-Cola destina presupuestos específicos para publicidad en redes, producción de contenido audiovisual, herramientas de análisis de datos y promociones digitales, asegurando que cada peso invertido tenga un retorno medible y esté alineado con los objetivos estratégicos de la marca.
-        p.mb-0 A continuación, se presentan las principales características de un presupuesto, sus funciones clave y ejemplos prácticos que permiten entender cómo se aplican en la planificación y gestión de recursos dentro de una organización o campaña de marketing digital:
+        p.mb-0 A continuación, se presentan las principales características de un presupuesto, sus funciones clave y ejemplos prácticos que permiten entender cómo se aplican en la planificación y gestión de recursos dentro de una organización o campaña de #[em marketing] digital:
 
     .row.justify-content-center.z-2
       .col-xl-10
@@ -77,8 +77,8 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema5/3.png", alt="")
       .col-lg-7
-        p El presupuesto es una herramienta práctica que se aplica en distintos niveles de la gestión empresarial, especialmente en marketing digital. Su función principal es asegurar que los recursos se utilicen de manera eficiente, estratégica y medible.
-        p.mb-0 La siguiente tabla muestra cómo el presupuesto se aplica en la gestión y marketing digital, destacando sus usos, beneficios y ejemplos prácticos:
+        p El presupuesto es una herramienta práctica que se aplica en distintos niveles de la gestión empresarial, especialmente en #[em marketing] digital. Su función principal es asegurar que los recursos se utilicen de manera eficiente, estratégica y medible.
+        p.mb-0 La siguiente tabla muestra cómo el presupuesto se aplica en la gestión y #[em marketing] digital, destacando sus usos, beneficios y ejemplos prácticos:
 
     .row.justify-content-center.z-2.mb-5
       .col-xl-10
@@ -128,7 +128,7 @@
       .col-lg-8
         p A continuación, se presenta un ejemplo práctico que muestra cómo elaborar un presupuesto de #[em marketing] digital de manera estructurada, asignando recursos, definiendo objetivos y estableciendo indicadores de seguimiento. Se utiliza como referencia la empresa Go Colombia, con el fin de ilustrar la aplicación real de un presupuesto en campañas digitales.
         h5 Empresa de referencia: Go Colombia
-        p #[strong Objeto de la empresa:] Go Colombia es una empresa colombiana de entregas a domicilio (delivery) y servicios bajo demanda. A través de su app, los usuarios pueden pedir comida, supermercado, productos de farmacia, mensajería y otros servicios rápidos.
+        p #[strong Objeto de la empresa:] Go Colombia es una empresa colombiana de entregas a domicilio (#[em delivery]) y servicios bajo demanda. A través de su app, los usuarios pueden pedir comida, supermercado, productos de farmacia, mensajería y otros servicios rápidos.
         p.mb-0 #[strong Objetivo:] aumentar descargas de la app en un 15 % y mejorar interacción en redes sociales durante un mes. 
 
     .row.justify-content-center.mb-5
@@ -230,7 +230,7 @@
               .row.justify-content-center
                 .col-12
                   h5 Paso 5:
-                  p evaluar y optimizar campañas.
+                  p analizar resultados y ajustar estrategias.
                   ul.lista-ul--primario.ms-3.mb-0
                     li.mb-0.d-flex
                       i.fas.fa-circle.fa-2xs.mt-2

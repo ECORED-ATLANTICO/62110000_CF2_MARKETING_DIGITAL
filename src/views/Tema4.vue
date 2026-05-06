@@ -155,7 +155,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema4/16.png", alt="")
       .col-lg-7.order-1.order-lg-2
-        p Un error frecuente en redes sociales es concentrarse en métricas de vanidad (como el número de likes) sin analizar si estas contribuyen al logro de objetivos empresariales. El KPI evita esta distorsión al exigir alineación estratégica.
+        p Un error frecuente en redes sociales es concentrarse en métricas de vanidad (como el número de #[em likes]) sin analizar si estas contribuyen al logro de objetivos empresariales. El KPI evita esta distorsión al exigir alineación estratégica.
         p En entornos digitales complejos, donde múltiples variables influyen en los resultados, la inteligencia artificial facilita la identificación de los KPI más influyentes y su monitoreo en tiempo real.
         p.mb-4.mb-lg-0 Las herramientas basadas en IA permiten:
 

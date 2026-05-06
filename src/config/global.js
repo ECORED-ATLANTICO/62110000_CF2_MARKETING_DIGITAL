@@ -110,7 +110,7 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'KPI (Key Performance Indicator)',
+        titulo: 'KPI (<em>Key Performance Indicator</em>)',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -231,7 +231,7 @@ export default {
         'Acción específica que realiza el usuario y que cumple un objetivo definido, como compra o registro.',
     },
     {
-      termino: 'CTR (Click through rate)',
+      termino: 'CTR (<em>Click through rate</em>)',
       significado:
         'Porcentaje de usuarios que hacen clic en un enlace respecto al número de impresiones obtenidas.',
     },
