@@ -77,7 +77,7 @@
           span Estructura de un indicador clave de rendimiento
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/4-mob.png", alt="En la figura 2 se enuncia la estructura de un indicador clave de rendimiento.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/4.png", alt="En la figura 2 se enuncia la estructura de un indicador clave de rendimiento.")
-        figcaption #[strong Nota]. SENA, (2026).
+        figcaption Nota. SENA, (2026).
 
     Separador
 
@@ -213,7 +213,7 @@
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-10
         .p-4.rounded-4.bg-acento-contenido-a5
-          p.mb-0.text-center La combinación entre análisis humano e inteligencia artificial fortalece la precisión en la evaluación del rendimiento digital y mejora la toma de decisiones estratégicas.
+          p.mb-0 La combinación entre análisis humano e inteligencia artificial fortalece la precisión en la evaluación del rendimiento digital y mejora la toma de decisiones estratégicas.
 
 
 </template>

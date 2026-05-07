@@ -16,7 +16,7 @@
     .row.justify-content-center
       .col-xl-10
         .p-4.rounded-4.bg-primario-p5
-          p.mb-0.text-center En #[em marketing] digital, el presupuesto asegura que cada inversión, desde publicidad #[em online] hasta creación de contenido, tenga un propósito definido, sea medible y genere resultados concretos.
+          p.mb-0 En #[em marketing] digital, el presupuesto asegura que cada inversión, desde publicidad #[em online] hasta creación de contenido, tenga un propósito definido, sea medible y genere resultados concretos.
 
     Separador
 
@@ -140,7 +140,7 @@
               .row.justify-content-center
                 .col-12
                   h5 Paso 1: 
-                  p definir objetivos.
+                  p Definir objetivos.
                   ul.lista-ul--primario.ms-3.mb-0
                     li.mb-0.d-flex
                       i.fas.fa-circle.fa-2xs.mt-2
@@ -157,7 +157,7 @@
               .row.justify-content-center
                 .col-12
                   h5 Paso 2: 
-                  p determinar recursos disponibles.
+                  p Determinar recursos disponibles.
                   p Monto total: $10.000.000 COP.
       .col-md-5.col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         .tarjeta-avatar
@@ -167,7 +167,7 @@
               .row.justify-content-center
                 .col-12
                   h5 Paso 3: 
-                  p asignar presupuesto a actividades.
+                  p Asignar presupuesto a actividades.
 
     .row.justify-content-center.z-2.mb-4  
       .col-xl-10
@@ -186,7 +186,7 @@
             tbody
               tr(style="background-color: #FFFFFF")
                 td Publicidad en Facebook e Instagram.
-                td $4.000.000 COP
+                td $4.000.000 COP.
                 td Aumentar alcance y descargas.
                 td CTR, impresiones, descargas.
               tr(style="background-color: #F6F6F6")
@@ -214,7 +214,7 @@
               .row.justify-content-center
                 .col-12
                   h5 Paso 4: 
-                  p ejecutar la campaña y registrar gastos.
+                  p Ejecutar la campaña y registrar gastos.
                   ul.lista-ul--primario.ms-3.mb-0
                     li.mb-0.d-flex
                       i.fas.fa-circle.fa-2xs.mt-2
@@ -230,7 +230,7 @@
               .row.justify-content-center
                 .col-12
                   h5 Paso 5:
-                  p analizar resultados y ajustar estrategias.
+                  p Analizar resultados y ajustar estrategias.
                   ul.lista-ul--primario.ms-3.mb-0
                     li.mb-0.d-flex
                       i.fas.fa-circle.fa-2xs.mt-2

@@ -78,7 +78,7 @@
           span Características del KPI
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/12.png", alt="La figura 3 describe las 4 características del KPI.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/11.png", alt="La figura 3 describe las 4 características del KPI.")
-        figcaption #[strong Nota]. SENA, (2026).
+        figcaption Nota. SENA, (2026).
 
     Separador
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")

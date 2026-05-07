@@ -95,7 +95,7 @@
           span Tipos de métricas en redes sociales
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/4-mob.png", alt="La figura 1 nos muestra los Tipos de métricas en redes sociales.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/4.png", alt="La figura 1 nos muestra los Tipos de métricas en redes sociales.")
-        figcaption #[strong Nota]. SENA, (2026).
+        figcaption Nota. SENA, (2026).
 
     Separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")

@@ -11,7 +11,7 @@
     .row.justify-content-center
       .col-12.mb-5
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="")
+          img(src="@/assets/curso/sintesis.svg", alt="El componente formativo Métricas del marketing digital integra la analítica web, las métricas digitales y los indicadores clave de rendimiento como bases para evaluar el desempeño de las estrategias online. Desarrolla la interpretación, estructura y cálculo de KPI, así como su aplicabilidad en redes sociales y entornos digitales. Finalmente, articula el análisis de resultados con el presupuesto, consolidando un enfoque estratégico orientado a la medición, optimización y rentabilidad del marketing digital.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

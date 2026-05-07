@@ -36,7 +36,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: '<em>Web analytics</em> (analítica web)',
+        titulo: 'Web <em>analytics</em> (analítica web)',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -175,7 +175,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA2_62110000_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -231,7 +231,7 @@ export default {
         'Acción específica que realiza el usuario y que cumple un objetivo definido, como compra o registro.',
     },
     {
-      termino: 'CTR (<em>Click through rate</em>)',
+      termino: 'CTR (<em>Click Through Rate</em>)',
       significado:
         'Porcentaje de usuarios que hacen clic en un enlace respecto al número de impresiones obtenidas.',
     },

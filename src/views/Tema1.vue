@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 #[em Web Analytics] (analítica Web)
+      h1 Web #[em analytics] (analítica Web)
 
     .fullwidth-bg.fullwidth-bg--1
     img(data-aos="fade-up")(src="@/assets/curso/tema1/1.png", alt="").z-2
@@ -48,7 +48,7 @@
             caption Nota. SENA, (2026).
             thead
               tr(style="background-color: #F1B6FC")
-                th Componente
+                th Etapa
                 th(colspan='2') Descripción
             tbody
               tr(style="background-color: #FFFFFF")
@@ -74,7 +74,7 @@
       .col-lg-8
         p Este proceso debe aplicarse de manera continua. La medición aislada no genera valor; lo que produce impacto es la interpretación sistemática y la capacidad de ajuste estratégico.
         .cajon.color-acento-contenido.py-3.px-4
-          p.mb-0 La empresa Rappi analiza semanalmente el comportamiento de sus publicaciones en Instagram. Si detecta que los contenidos en formato reel generan mayor retención y comentarios que las imágenes estáticas, ajusta su calendario editorial priorizando video corto. Esta decisión no se basa en percepción, sino en análisis de datos concretos.
+          p.mb-0 La empresa Rappi analiza semanalmente el comportamiento de sus publicaciones en Instagram. Si detecta que los contenidos en formato #[em reel] generan mayor retención y comentarios que las imágenes estáticas, ajusta su calendario editorial priorizando video corto. Esta decisión no se basa en percepción, sino en análisis de datos concretos.
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-8
@@ -88,12 +88,14 @@
     .row.justify-content-center.mb-4.mb-lg-5
       .col-lg-10.col-xl-8
         .py-3.px-4.rounded-4.bg-secundario-s5.z-2
-          p.mb-0.text-center El uso de herramientas con inteligencia artificial fortalece la metodología analítica mediante:
+          p.mb-0 El uso de herramientas con inteligencia artificial fortalece la metodología analítica mediante:
 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10.col-xl-8
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/5-mob.png", alt="Identificación automática de patrones de comportamiento. Predicción de horarios óptimos de publicación. Alertas sobre disminución significativa en indicadores clave. Recomendaciones de optimización de contenido según rendimiento histórico.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/5.png", alt="Identificación automática de patrones de comportamiento. Predicción de horarios óptimos de publicación. Alertas sobre disminución significativa en indicadores clave. Recomendaciones de optimización de contenido según rendimiento histórico.")
+
+    p.mb-4 La integración de IA no reemplaza el análisis humano, sino que amplía la capacidad de interpretación, precisión y anticipación estratégica dentro del marketing digital. 
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-sm-8.col-lg-5.d-none.d-lg-block
