@@ -95,7 +95,7 @@
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/5-mob.png", alt="Identificación automática de patrones de comportamiento. Predicción de horarios óptimos de publicación. Alertas sobre disminución significativa en indicadores clave. Recomendaciones de optimización de contenido según rendimiento histórico.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/5.png", alt="Identificación automática de patrones de comportamiento. Predicción de horarios óptimos de publicación. Alertas sobre disminución significativa en indicadores clave. Recomendaciones de optimización de contenido según rendimiento histórico.")
 
-    p.mb-4 La integración de IA no reemplaza el análisis humano, sino que amplía la capacidad de interpretación, precisión y anticipación estratégica dentro del marketing digital. 
+    p.mb-4 La integración de IA no reemplaza el análisis humano, sino que amplía la capacidad de interpretación, precisión y anticipación estratégica dentro del #[em marketing] digital. 
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-sm-8.col-lg-5.d-none.d-lg-block

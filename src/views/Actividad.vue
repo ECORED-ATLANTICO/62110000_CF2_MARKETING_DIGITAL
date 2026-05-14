@@ -20,9 +20,9 @@ export default {
       tema: 'Fundamentos de métricas del marketing digital',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> evaluar tu comprensión sobre las métricas del <em>marketing</em> digital, fortaleciendo tu capacidad para interpretar datos y establecer indicadores alineados con el plan de <em>marketing</em> digital',
+        '<b> Objetivo:</b> evaluar la comprensión sobre las métricas del <em>marketing</em> digital, fortaleciendo la capacidad para interpretar datos y establecer indicadores alineados con el plan de <em>marketing</em> digital',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!.',
+      titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {

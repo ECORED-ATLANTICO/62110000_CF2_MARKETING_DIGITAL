@@ -117,7 +117,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema3/8.png", alt="")
       .col-lg-7
-        p Los indicadores clave de rendimiento se aplican para evaluar la efectividad de campañas, contenidos y estrategias digitales La empresa Netflix puede establecer como indicador clave la tasa de retención mensual para evaluar la permanencia de sus usuarios. Por su parte, Starbucks puede utilizar como indicador la tasa de conversión en campañas promocionales digitales para medir el impacto en ventas.
+        p Los indicadores clave de rendimiento se aplican para evaluar la efectividad de campañas, contenidos y estrategias digitales. La empresa Netflix puede establecer como indicador clave la tasa de retención mensual para evaluar la permanencia de sus usuarios. Por su parte, Starbucks puede utilizar como indicador la tasa de conversión en campañas promocionales digitales para medir el impacto en ventas.
         .p-4.rounded-4.bg-secundario-s5
           p.mb-0 En redes sociales, un indicador frecuente es la tasa de #[em engagement], ya que permite medir el nivel real de conexión entre la marca y su audiencia.
           
