@@ -34,7 +34,6 @@
       .py-4.py-md-5(titulo="Estar alineado con los objetivos organizacionales" :icono="require('@/assets/curso/tema4/3.png')")
         .row.justify-content-center.align-items-center
           .col-11.col-lg-5
-            h4 Estar alineado con los objetivos organizacionales
             p.mb-4.mb-lg-0 Un KPI no debe ser elegido de manera aleatoria; debe reflejar directamente las metas estratégicas de la empresa. Esto asegura que las acciones y resultados medidos contribuyan al crecimiento, la eficiencia o la competitividad de la organización, evitando esfuerzos que no generen valor. Por ejemplo, si el objetivo de una empresa es aumentar las ventas #[em online] en un 20 % durante el año, un KPI relevante sería la tasa de conversión de visitantes a compradores en la tienda virtual.
           .col-11.col-lg-5
             figure
@@ -43,7 +42,6 @@
       .py-4.py-md-5(titulo="Ser medible de forma clara y periódica" :icono="require('@/assets/curso/tema4/4.png')")
         .row.justify-content-center.align-items-center
           .col-11.col-lg-5
-            h4 Ser medible de forma clara y periódica
             p.mb-4.mb-lg-0 Los KPI deben definirse de manera cuantificable, con criterios claros para su medición y registro. Esto permite un seguimiento constante y evita interpretaciones subjetivas. Además, la periodicidad en la medición —diaria, semanal, mensual o trimestral— facilita la detección temprana de desviaciones y la adopción de acciones correctivas oportunas.
           .col-11.col-lg-5
             figure
@@ -52,7 +50,6 @@
       .py-4.py-md-5(titulo="Permitir comparaciones en el tiempo" :icono="require('@/assets/curso/tema4/5.png')")
         .row.justify-content-center.align-items-center
           .col-11.col-lg-5
-            h4 Permitir comparaciones en el tiempo
             p.mb-4.mb-lg-0 Un buen KPI debe ser consistente para poder comparar resultados históricos y evaluar tendencias. Esta capacidad de análisis temporal ayuda a identificar patrones de desempeño, áreas de mejora y el impacto de nuevas estrategias o campañas. Por ejemplo, comparar la satisfacción del cliente trimestre a trimestre permite observar si las acciones implementadas están generando una experiencia más positiva.
           .col-11.col-lg-5
             figure
@@ -61,7 +58,6 @@
       .py-4.py-md-5(titulo="Servir como base para la toma de decisiones" :icono="require('@/assets/curso/tema4/6.png')")
         .row.justify-content-center.align-items-center
           .col-11.col-lg-5
-            h4 Servir como base para la toma de decisiones
             p.mb-4.mb-lg-0 Más allá de ser un número, un KPI debe proporcionar información útil para la gestión. Los resultados obtenidos permiten a los directivos y equipos operativos tomar decisiones fundamentadas, priorizar recursos, ajustar estrategias y evaluar la efectividad de sus acciones. Por ejemplo, si un KPI muestra una disminución en la retención de clientes, se pueden implementar campañas de fidelización o mejorar el servicio al cliente.
           .col-11.col-lg-5
             figure
@@ -147,8 +143,12 @@
     .fullwidth-bg.fullwidth-bg--2
     .row.justify-content-center.align-items-center.z-2.mb-3
       .col-lg-10.col-xl-8
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/15-mob.png", alt="Evaluar efectividad real, Detectar desviaciones frente a metas, Justificar inversión en marketing digital, Optimizar recursos estratégicamente.")
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/15.png", alt="Evaluar efectividad real, Detectar desviaciones frente a metas, Justificar inversión en marketing digital, Optimizar recursos estratégicamente.")
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Figura 4.
+          span Aplicabilidad de los KPI en la gestión estratégica del <em>marketing</em> digital
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/15-mob.png", alt="La figura describe la aplicabilidad de los KPI en marketing digital mediante cuatro funciones principales: evaluar la efectividad real, detectar desviaciones frente a las metas, justificar la inversión en marketing digital y optimizar recursos estratégicamente.")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/15.png", alt="La figura describe la aplicabilidad de los KPI en marketing digital mediante cuatro funciones principales: evaluar la efectividad real, detectar desviaciones frente a las metas, justificar la inversión en marketing digital y optimizar recursos estratégicamente.")
+        figcaption Nota. SENA, (2026).
 
     .row.justify-content-center.align-items-center.mb-4.z-2
       .col-sm-10.col-lg-5.order-2.order-lg-1

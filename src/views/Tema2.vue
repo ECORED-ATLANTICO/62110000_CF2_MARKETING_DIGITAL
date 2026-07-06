@@ -19,7 +19,7 @@
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.1 Concepto
 
-    p.mb-4 Las métricas son datos cuantificables que permiten medir el comportamiento de los usuarios frente a los contenidos digitales y evaluar el rendimiento de una estrategia en redes sociales. Representan valores numéricos que reflejan resultados específicos, como número de visualizaciones, clics, comentarios o compartidos.
+    p.mb-4.z-2 Las métricas son datos cuantificables que permiten medir el comportamiento de los usuarios frente a los contenidos digitales y evaluar el rendimiento de una estrategia en redes sociales. Representan valores numéricos que reflejan resultados específicos, como número de visualizaciones, clics, comentarios o compartidos.
 
     .row.justify-content-center.align-items-center.z-2
       .col-lg-6.mb-4.mb-lg-0
