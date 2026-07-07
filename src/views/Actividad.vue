@@ -44,7 +44,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del <em>marketing</em> digital.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del marketing digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -67,7 +67,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del <em>marketing</em> digital.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del marketing digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -89,7 +89,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del <em>marketing</em> digital.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del marketing digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -112,7 +112,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del <em>marketing</em> digital.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del marketing digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -135,7 +135,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del <em>marketing</em> digital.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del marketing digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -157,7 +157,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del <em>marketing</em> digital.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del marketing digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -180,7 +180,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del <em>marketing</em> digital.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del marketing digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -203,7 +203,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del <em>marketing</em> digital.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del marketing digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -226,7 +226,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del <em>marketing</em> digital.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del marketing digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -249,7 +249,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del <em>marketing</em> digital.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del marketing digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -272,7 +272,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del <em>marketing</em> digital.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del marketing digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -295,7 +295,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del <em>marketing</em> digital.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del marketing digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -318,7 +318,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del <em>marketing</em> digital.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del marketing digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -341,7 +341,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del <em>marketing</em> digital.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del marketing digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -364,7 +364,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del <em>marketing</em> digital.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del marketing digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -387,7 +387,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del <em>marketing</em> digital.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del marketing digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -410,7 +410,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del <em>marketing</em> digital.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del marketing digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -433,7 +433,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del <em>marketing</em> digital.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del marketing digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -456,7 +456,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del <em>marketing</em> digital.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del marketing digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -479,7 +479,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del <em>marketing</em> digital.',
+            'Excelente trabajo. Tiene un claro entendimiento sobre los conceptos básicos de las métricas del marketing digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
